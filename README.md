@@ -4,8 +4,6 @@ Cloud based travel analytics and ETL platform using Spring Boot, React, PostgreS
 
 The platform processes travel-related data from multiple sources, stores it in a centralized database, and provides analytics dashboards and REST APIs for business insights.
 
----
-
 ## Features
 
 - ETL pipeline with Python
@@ -29,24 +27,6 @@ The platform processes travel-related data from multiple sources, stores it in a
 | Analytics|   Jupyter Notebook|
 | Containerization |	Docker |
 | Version Control |	Git/GitHub |
-
----
-
-## Project Structure
-
-travel_analytics_platform/
-│
-├── backend/
-├── frontend/
-├── etl/
-├── database/
-├── docs/
-├── docker/
-│
-├── README.md
-└── architecture.md
-
----
 
 ## Main Goals
 

@@ -1,7 +1,5 @@
 # Travel Analytics Platform
 
----
-
 ## 1. Project Overview
 
 *The Travel Analytics Platform is a cloud-ready data engineering and analytics system designed for travel and tourism companies*.
@@ -10,7 +8,6 @@
 
 *The goal of the project is to build a centralized platform for travel analytics, reporting, and business insights using modern software engineering and data engineering technologies*.
 
----
 
 ## 2. Business Problem
 Travel companies often manage data from different systems and sources:
@@ -26,8 +23,6 @@ These data sources are usually separated and difficult to analyze efficiently.
 
 This project solves the problem by creating a centralized analytics platform with automated ETL pipelines and modern dashboards.
 
----
-
 ## 3. Project Goals
 
 ** The main goals of the platform are: **
@@ -39,8 +34,6 @@ This project solves the problem by creating a centralized analytics platform wit
 - Interactive analytics dashboard
 - Scalable and cloud ready architecture
 - Support for business intelligence tools
-
----
 
 ## 4. System Architecture
 
@@ -73,8 +66,6 @@ This project solves the problem by creating a centralized analytics platform wit
  - filtering
  - analytics reports
 
----
-
 ## 5. Technologies
 
 | Layer    |   Technology      |
@@ -88,22 +79,6 @@ This project solves the problem by creating a centralized analytics platform wit
 | Containerization |	Docker |
 | Version Control |	Git/GitHub |
 
----
-
-## 6. Data Flow
-
-CSV/API Data
-↓
-Python ETL Pipeline
-↓
-PostgreSQL Database
-↓
-Spring Boot REST API
-↓
-React Dashboard / BI Tools 
-
----
-
 ## 7. Main Features
 
 - Automated ETL processing
@@ -113,8 +88,6 @@ React Dashboard / BI Tools
 - SQL based reporting
 - Data filtering and aggregation
 - Modular architecture
-
----
 
 ## 8. Future Improvements
 
